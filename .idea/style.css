@@ -69,3 +69,51 @@ body
 
 }
 
+.fb
+{
+     width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.fb:hover
+{
+    background-color: #4668b3;
+}
+
+.yt
+{
+     width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.yt:hover
+{
+    background-color: #d3141d;
+}
+
+.tw
+{
+     width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.tw:hover
+{
+    background-color: #2679b3;
+}
+
+.gplus
+{
+     width: 250px;
+    height: 155px;
+    float: left;
+}
+
+.gplus:hover
+{
+    background-color: #b33107;
+}
+
