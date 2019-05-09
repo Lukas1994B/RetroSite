@@ -1,0 +1,27 @@
+body
+{
+    background-color: #a88565;
+    color: black;
+    font-family: 'Lato', sans-serif;;
+
+}
+
+.wrapper
+{
+    width: 100%;
+}
+
+.header
+{
+    width: 100%;
+    padding: 40px 0;
+}
+.logo
+{
+    width: 450px;
+    font-size: 48px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid firebrick;
+    text-align: center;
+}
